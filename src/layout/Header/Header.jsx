@@ -10,7 +10,7 @@ const Header = (props) => {
     const linksData = [
         { address: '/', name: 'HOME' },
         { address: '/projects', name: 'GALLERY' },
-        { address: '/about', name: 'ABOUT' },
+        // { address: '/about', name: 'ABOUT' },
     ];
 
     return (
