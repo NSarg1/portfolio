@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.659ecfdb.chunk.css",
+    "main.js": "/portfolio/static/js/main.9c7e0d21.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.9c7e0d21.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.8940859c.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.8940859c.js.map",
+    "static/js/2.70395e4c.chunk.js": "/portfolio/static/js/2.70395e4c.chunk.js",
+    "static/js/2.70395e4c.chunk.js.map": "/portfolio/static/js/2.70395e4c.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.d37f20fdd4ee9a2bb340a7567ad13d5d.js": "/portfolio/precache-manifest.d37f20fdd4ee9a2bb340a7567ad13d5d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.659ecfdb.chunk.css.map": "/portfolio/static/css/main.659ecfdb.chunk.css.map",
+    "static/js/2.70395e4c.chunk.js.LICENSE.txt": "/portfolio/static/js/2.70395e4c.chunk.js.LICENSE.txt",
+    "static/media/15Puzzle.jpg": "/portfolio/static/media/15Puzzle.29fb182b.jpg",
+    "static/media/PM.jpg": "/portfolio/static/media/PM.f0bd199b.jpg",
+    "static/media/Shopify.jpg": "/portfolio/static/media/Shopify.a3045544.jpg",
+    "static/media/adam-min.jpg": "/portfolio/static/media/adam-min.15c1b2db.jpg",
+    "static/media/main.scss": "/portfolio/static/media/react-icon.05e9a1f4.svg",
+    "static/media/checkmate-checker.jpg": "/portfolio/static/media/checkmate-checker.7c7f05e5.jpg",
+    "static/media/engraved-back.png": "/portfolio/static/media/engraved-back.ca3edfbf.png",
+    "static/media/kiss-min.jpg": "/portfolio/static/media/kiss-min.6f2febe7.jpg",
+    "static/media/man.png": "/portfolio/static/media/man.6c106e7a.png",
+    "static/media/mona-min.jpg": "/portfolio/static/media/mona-min.d8c5fcc7.jpg",
+    "static/media/natours.jpg": "/portfolio/static/media/natours.dd7c49a1.jpg",
+    "static/media/omnifood.jpg": "/portfolio/static/media/omnifood.2bcc597a.jpg",
+    "static/media/pizza-maker.jpg": "/portfolio/static/media/pizza-maker.b088fa9d.jpg",
+    "static/media/starry-min.jpg": "/portfolio/static/media/starry-min.88b441a1.jpg",
+    "static/media/supper-min.jpg": "/portfolio/static/media/supper-min.5aba2602.jpg",
+    "static/media/venus-min.jpg": "/portfolio/static/media/venus-min.a87c6a04.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8940859c.js",
+    "static/js/2.70395e4c.chunk.js",
+    "static/css/main.659ecfdb.chunk.css",
+    "static/js/main.9c7e0d21.chunk.js"
+  ]
+}
